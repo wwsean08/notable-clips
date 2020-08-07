@@ -7,3 +7,4 @@ Here is a collection of notable links from fellow streamers in the community. Fe
 - [ObsidianTalon - Clarkio cares!](https://clips.twitch.tv/BillowingSmoothDragonDeIlluminati)
 - [Phrakberg Raspberry](https://www.twitch.tv/phrakberg/clip/CorrectMushyPeachRiPepperonis)
 - [Building UI with TailwindCSS](https://www.twitch.tv/jidelambo/clip/PerfectTangentialSoymilkPogChamp)
+- [Jeff Fritz likes big...](https://clips.twitch.tv/AthleticWimpyDaikonVoteNay)
